@@ -1,6 +1,6 @@
 all:
 	cd src && make
 install:
-	cp bin/jproxy bin/instance /usr/bin/
+	cp bin/sproxy bin/instance /usr/bin/
 clear:
-	rm bin/jproxy bin/instance
+	rm bin/sproxy bin/instance
