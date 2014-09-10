@@ -1,0 +1,5 @@
+  To install jproxy, you can execute the following commands in this dir:
+	make
+	make install
+  And use the command jproxy PORT [ -r REDIRECT_HOST REDIRECT_PORT ] to enjoy it.
+ 
